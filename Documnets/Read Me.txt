@@ -1,0 +1,29 @@
+Code.ipynb --------> Contains the total Vitual Tryon Application
+splashh.py --------> Contains code of implementation Splash Screen
+stryon.py----------> Contains the code for Spectacle Tryon
+Ntron.py-----------> Contains the code for Necklace Tryon
+User's Images in the current code 
+Spectacle Try On -------> "sravani 2.jpg"
+Necklace Try On  -------> "iu.jpg"
+Glasses Images
+"galss.png","glass1.png","glass3.png","glass33.png"
+Necklaces Images
+"necklac1.png","necklace 2.png","necklace 3.png","necklace 4.png"
+Process:
+#check demo videos once
+1.Open code.ipynb
+2.Run it
+3.Splash Screen Will be loaded
+4.After that Our MainWindow will be displayed 
+5.Whenever user clicks on try on button respective image will be overlayed to the given input image in particular stryon or ntron files
+6.Outputs Will be displayed accordingly
+#Modules Needed for the Execution 
+1.open Cv
+2.dlib
+3.PyQt5,pyqt5--tools
+#Backend connected python files
+1.splashh.py
+2.ntron.py
+3.stryon.py
+
+
